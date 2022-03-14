@@ -4,7 +4,7 @@
 
 #### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite  being temporary, a good place to live.
 
-- 📝 I'm currentily learning front-end and back-end development at Trybe
+- 📝 I'm currentily learning front-end and back-end development at <a href="https://github.com/betrybe">Trybe</a>
 - 💻 Here are some of the languages i'm working:
 
 <div style="display: inline_block"><br>
