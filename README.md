@@ -5,7 +5,7 @@
 #### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite  being temporary, a good place to live.
 
 - 📝 I'm currentily learning front-end and back-end development at <a href="https://github.com/betrybe">Trybe</a>
-- 💻 Here are some of the languages i'm working:
+- 💻 Here are some of the languages i'm working with:
 
 <div style="display: inline_block"><br>
   <img align="left" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
