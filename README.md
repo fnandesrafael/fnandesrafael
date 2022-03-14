@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋 Welcome to my profile!
 
-<!--
-**rafaelimaf/rafaelimaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Rafael 🌃
 
-Here are some ideas to get you started:
+#### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite  being temporary, a good place to live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I'm currentily learning front-end and back-end development at Trybe
+- 💻 Here are some of the languages i'm working:
+
+<div style="display: inline_block"><br>
+  <img align="left" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
