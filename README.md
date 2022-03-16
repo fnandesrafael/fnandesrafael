@@ -19,4 +19,4 @@
 </br>
 
 ## And here you can find some of my aplications on Github Pages:
-- <a href="https://rafaelimaf.github.io/project-tryunfo/" target=_blank>Project Tryunfo</a>
+- <a href="https://rafaelimaf.github.io/project-tryunfo/" target="_blank">Project Tryunfo</a>
