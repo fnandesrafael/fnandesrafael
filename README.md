@@ -1,5 +1,5 @@
 ## Olá! 👋 Seja bem vindo ao meu perfil!
-##### Idioma: [Português](https://github.com/rafaelimaf/rafaelimaf/blob/main/README-pt-br.md) | [Inglês](https://github.com/rafaelimaf/rafaelimaf/blob/main/README.md)
+##### Idioma: [Português](https://github.com/rafaelimaf/rafaelimaf/blob/main/README.md) | [Inglês](https://github.com/rafaelimaf/rafaelimaf/blob/main/README-en.md)
 
 
 ### Meu nome é Rafael 🌃
