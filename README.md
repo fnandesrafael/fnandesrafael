@@ -2,7 +2,7 @@
 
 ## My name is Rafael 🌃
 
-#### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite  being temporary, a good place to live.
+#### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite temporary, a good place to live.
 
 - 📝 I'm currentily learning front-end and back-end development at <a href="https://github.com/betrybe">Trybe</a>
 - 💻 Here are some of the technologies i'm working with:
@@ -19,7 +19,7 @@
 </br>
 </br>
 
-## And here you can find some of my aplications on Github Pages:
+## Here you can find some of my aplications on Github Pages:
 
 ### [🎴 Project Tryunfo](https://rafaelimaf.github.io/project-tryunfo/)
 > Tryunfo Repo: https://github.com/rafaelimaf/project-tryunfo
