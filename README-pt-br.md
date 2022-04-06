@@ -1,3 +1,5 @@
+## [Portuguese](https://github.com/rafaelimaf/rafaelimaf/edit/main/README-pt-br.md) | [English](https://github.com/rafaelimaf/rafaelimaf/edit/main/README.md)
+
 ### Olá! 👋 Seja bem vindo ao meu perfil!
 
 ## Meu nome é Rafael 🌃
@@ -19,7 +21,7 @@
 </br>
 </br>
 
-## Aqyu você pode encontrar algumas das minhas aplicações no Github Pages:
+## Aqui você pode encontrar algumas das minhas aplicações no Github Pages:
 
-### [🎴 Projecto Tryunfo](https://rafaelimaf.github.io/project-tryunfo/)
+### [🎴 Projeto Tryunfo](https://rafaelimaf.github.io/project-tryunfo/)
 > Tryunfo Repo: https://github.com/rafaelimaf/project-tryunfo
