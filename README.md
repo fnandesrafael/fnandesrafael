@@ -1,4 +1,4 @@
-## [Portuguese]() | [English]()
+## [Portuguese](https://github.com/rafaelimaf/rafaelimaf/edit/main/README-pt-br.md) | [English](https://github.com/rafaelimaf/rafaelimaf/edit/main/README.md)
 
 ### Hi there! 👋 Welcome to my profile!
 
