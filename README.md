@@ -1,8 +1,7 @@
-## [Portuguese](https://github.com/rafaelimaf/rafaelimaf/edit/main/README-pt-br.md) | [English](https://github.com/rafaelimaf/rafaelimaf/edit/main/README.md)
+## Hi there! 👋 Welcome to my profile!
+##### Language: [Portuguese](https://github.com/rafaelimaf/rafaelimaf/blob/main/README-pt-br.md) | [English](https://github.com/rafaelimaf/rafaelimaf/blob/main/README.md)
 
-### Hi there! 👋 Welcome to my profile!
-
-## My name is Rafael 🌃
+### My name is Rafael 🌃
 
 #### Moved by problem-solving and creative innovations as solutions for them. I work and believe in projects that can make this world, despite temporary, a good place to live.
 
