@@ -1,5 +1,5 @@
 ## Hi there! 👋 Welcome to my profile!
-##### Language: [Portuguese](https://github.com/rafaelimaf/rafaelimaf/blob/main/README-pt.md) | [English](https://github.com/rafaelimaf/rafaelimaf/blob/main/README.md)
+##### Language: [Portuguese](https://github.com/rafaelimaf/rafaelimaf/blob/main/README.md) | [English](https://github.com/rafaelimaf/rafaelimaf/blob/main/README-en.md)
 
 ### My name is Rafael 🌃
 
