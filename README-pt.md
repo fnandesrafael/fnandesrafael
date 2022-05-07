@@ -9,14 +9,23 @@
 - 📝 Atualmente estou aprendendo desenvolvimento front-end e back-end development na <a href="https://github.com/betrybe">Trybe</a>
 - 💻 Aqui estão algumas tecnologias com as quais trabalho atualmente:
 
-<div style="display: inline_block"><br>
-  <img align="left" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block">
+  <h4>Front-end<h4/>
+  <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="left" height="35" width="40" src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png">
 </div>
 </br>
+</br>
+
+<div style="display: inline_block">
+  <h4>Back-end<h4/>
+  <img align="left" height="35" width="35" src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png">
+  <img align="left" height="35" width="35" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+  <img align="left" height="35" width="35" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">
+</div>
 </br>
 </br>
 
