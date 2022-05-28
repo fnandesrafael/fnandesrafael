@@ -33,4 +33,4 @@
 ### [🎴 Projeto Tryunfo](https://rafaelimaf.github.io/project-tryunfo/)
 > Tryunfo Repo: https://github.com/rafaelimaf/project-tryunfo
 ### [🎧 Projeto Trybetunes](https://rafaelimaf.github.io/project-tybetunes)
-> Trybetunes Repo: https://github.com/rafaelimaf/projec-trybetunes
+> Trybetunes Repo: https://github.com/rafaelimaf/project-trybetunes
