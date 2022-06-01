@@ -10,6 +10,7 @@
 - 🧪 Tenho experiência em testes unitários com `Jest`, `RTL`, `Mocha`, `Chai` e `Sinon`;
 - 🐋 Além de prática com containerização de aplicações com `Docker` e `Docker-Compose`;
 
+##
 <div style="display: inline_block">
   <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript">
   <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
