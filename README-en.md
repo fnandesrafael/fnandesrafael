@@ -7,7 +7,7 @@
 
 - 📝 I'm currentily learning web development full-stack at <a href="https://github.com/betrybe">Trybe</a>
 - 💻 Today i'm developing in `Javascript` language. Also using libraries, framewoks and tecnologies based on EC6 as: `React` and `NodeJS;
-- 🧪 I have notions of TDD in unit test frameworks as `Jest`, `RTL`, `Mocha`, `Chai` and `Sinon`;
+- 🧪 I have notions of TDD in unit and intgration test frameworks as `Jest` and `RTL`;
 - 🎲 Practice with three layers architecture applied in relational databases `SQL` and ORMs as `Sequelize`;
 - 🐋 Practice in containerization of aplications with `Docker` and `Docker Compose`;
 - 🔧 Besides experience with development tools such as `Eslint` and `Git`;
