@@ -6,12 +6,12 @@
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
 - 📝 Atualmente estou me formando como desenvolvedor web full-stack na <a href="https://github.com/betrybe">Trybe</a>;
+- 🧠 Compentências em soft skills tais como `Metodologias Agile`:`Kanban` e `Scrum`, `Colaboração`, `Autoliderança` e `Criatividade`;
 - 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nas mesmas como: `NodeJS` e `ReactJS`;
 - 🎲 Pratica com arquitetura de três camadas aplicada à bancos de dados relacionais `MYSQL` e ORMs como `Sequelize`;
 - 🧪 Noções de TDD em frameworks de testes unitários e de integração como `Jest`, `RTL`, `Mocha`, `Chai` e `Sinon`;
 - 🐋 Prática com containerização de aplicações com `Docker` e `Docker Compose`;
 - 🔧 Além de experiência com ferramentas de desenvolvimento como `Eslint` e `Git`;
-- 🧠 Compentências em soft skills tais como `Metodologias Agile`:`Kanban` e `Scrum`, `Colaboração`, `Autoliderança` e `Criatividade`;
 
 ##
 <div style="display: inline_block">
