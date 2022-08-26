@@ -3,7 +3,7 @@
 
 ### Meu nome é Rafael
 
-#### Movido por resolução de problemas e inovações criativas como soluções destes. Trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
+#### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
 - 📝 Atualmente estou me formando como desenvolvedor web full-stack na <a href="https://github.com/betrybe">Trybe</a>;
 - 💻 Hoje desenvolvo na linguagem `Javascript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nela como: `React` e `NodeJS`;
