@@ -7,7 +7,7 @@
 
 - 📝 Atualmente estou me formando como desenvolvedor web full-stack na <a href="https://github.com/betrybe">Trybe</a>;
 - 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nas mesmas como: `NodeJS` e `ReactJS`;
-- 🎲 Pratica com arquitetura de três camadas aplicada à bancos de dados relacionais `SQL` e ORMs como `Sequelize`;
+- 🎲 Pratica com arquitetura de três camadas aplicada à bancos de dados relacionais `MYSQL` e ORMs como `Sequelize`;
 - 🧪 Noções de TDD em frameworks de testes unitários e de integração como `Jest`, `RTL`, `Mocha`, `Chai` e `Sinon`;
 - 🐋 Prática com containerização de aplicações com `Docker` e `Docker Compose`;
 - 🔧 Além de experiência com ferramentas de desenvolvimento como `Eslint` e `Git`;
