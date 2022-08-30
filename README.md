@@ -16,10 +16,10 @@
 ##
 <div style="display: inline_block">
   <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript">
-  <img align="left" height="30" width="30" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="Typescript">
-  <img align="left" heigth="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS">
-  <img align="left" heigth="28" width="28" src="https://iconape.com/wp-content/files/gq/99606/svg/sequelize.svg" alt="Sequelize">
-  <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS">
-  <img align="left" heigth="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest">
-  <img align="left" heigth="34" width="34" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker">
+  <img align="left" width="30" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="Typescript">
+  <img align="left" width="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS">
+  <img align="left" width="28" src="https://iconape.com/wp-content/files/gq/99606/svg/sequelize.svg" alt="Sequelize">
+  <img align="left" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS">
+  <img align="left" width="32" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" alt="Jest">
+  <img align="left" width="34" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker">
 </div>
