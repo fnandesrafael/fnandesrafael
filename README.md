@@ -5,10 +5,11 @@
 
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
-- 📝 Atualmente sou Desenvolvedor Web Fullstack;
+- 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack;
 - 🧠 Possuo compentências em _soft skills_ tais como metodologias agile:`Kanban` e `Scrum`, `Colaboração`, `Autoliderança` e `Criatividade`;
 - 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nas mesmas como: `NodeJS` e `ReactJS`;
 - 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de `APIs REST` utilizando `Arquitetura em Três Camadas`;
+- 📝 Utilizo tanto os paradigmas de `Programação Funcional` como `Orientada à Objetos`;
 - 📋 Mantendo princípios de `SOLID` e `Test Drive Development`;
 - 🎲 Modelagem de bancos de dados relacionais com `MySQL` utilizando a ORM `Sequelize`;
 - 🧪 Para o desenvolvimento de testes, sejam Unitários ou de Integração, tenho conhecimento dos frameworks: `Jest`, `React Testing Library`, `Mocha`, `Chai`, `Chai HTTP` e `Sinon`;
