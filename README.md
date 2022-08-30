@@ -7,7 +7,7 @@
 
 - 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack;
 - 🧠 Possuo compentências em _soft skills_ tais como metodologias agile:`Kanban` e `Scrum`. `Colaboração`, `Autoliderança` e `Criatividade`;
-- 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nas mesmas como: `NodeJS` e `ReactJS`;
+- 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também as principais bibliotecas e tecnologias, baseadas em ES6, `NodeJS` e `ReactJS`;
 - 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de `APIs REST` utilizando `Arquitetura em Três Camadas`;
 - 📝 Utilizo tanto os paradigmas de `Programação Funcional` como `Orientada à Objetos`;
 - 📋 Mantendo princípios de `SOLID` e `Test Drive Development`;
