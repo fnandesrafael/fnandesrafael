@@ -12,7 +12,7 @@
 - 📝 Utilizo tanto os paradigmas de `Programação Funcional` como `Orientada à Objetos`;
 - 📋 Mantendo princípios de `SOLID` e `Test Drive Development`;
 - 🎲 Modelando de bancos de dados relacionais com `MySQL` utilizando a ORM `Sequelize`;
-- 🧪 Para o desenvolvimento de testes, sejam Unitários ou de Integração, tenho conhecimento dos frameworks: `Jest`, `React Testing Library`, `Mocha`, `Chai`, `Chai HTTP` e `Sinon`;
+- 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: `Jest`, `React Testing Library`, `Mocha`, `Chai`, `Chai HTTP` e `Sinon`;
 - 🐋 Prática com ferramentas de desenvolvimento como `Docker`, `Docker Compose`, `Eslint` e `Git`;
 - 🔧 Além de produção `CI/CD` com `Heroku` e `Github Actions`;
 
