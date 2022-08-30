@@ -5,13 +5,15 @@
 
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
-- 📝 Atualmente estou me formando como desenvolvedor web full-stack na <a href="https://github.com/betrybe">Trybe</a>;
-- 🧠 Possuo compentências em _soft skills_ tais como `Metodologias Agile`:`Kanban` e `Scrum`, `Colaboração`, `Autoliderança` e `Criatividade`;
+- 📝 Atualmente sou Desenvolvedor Web Fullstack;
+- 🧠 Possuo compentências em _soft skills_ tais como metodologias agile:`Kanban` e `Scrum`, `Colaboração`, `Autoliderança` e `Criatividade`;
 - 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também, bibliotecas, frameworks e tecnologias baseadas nas mesmas como: `NodeJS` e `ReactJS`;
-- 🎲 Pratica com arquitetura de três camadas aplicada à bancos de dados relacionais `MYSQL` e ORMs como `Sequelize`;
-- 🧪 Noções de TDD em frameworks de testes unitários e de integração como `Jest`, `RTL`, `Mocha`, `Chai` e `Sinon`;
-- 🐋 Prática com containerização de aplicações com `Docker` e `Docker Compose`;
-- 🔧 Além de experiência com ferramentas de desenvolvimento como `Eslint` e `Git`;
+- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de `APIs REST` utilizando `Arquitetura em Três Camadas`;
+- 📋 Mantendo princípios de `SOLID` e `Test Drive Development`;
+- 🎲 Modelagem de bancos de dados relacionais com `MySQL` utilizando a ORM `Sequelize`;
+- 🧪 Para o desenvolvimento de testes, sejam Unitários ou de Integração, tenho conhecimento dos frameworks: `Jest`, `React Testing Library`, `Mocha`, `Chai`, `Chai HTTP` e `Sinon`;
+- 🐋 Prática com ferramentas de desenvolvimento como `Docker`, `Docker Compose`, `Eslint` e `Git`;
+- 🔧 Além de produção `CI/CD` com `Heroku` e `Github Actions`;
 
 ##
 <div style="display: inline_block">
