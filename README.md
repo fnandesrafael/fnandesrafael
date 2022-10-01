@@ -5,15 +5,15 @@
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
 - 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack;
-- 🧠 Possuo compentências em _soft skills_ tais como metodologias agile:`Kanban` e `Scrum`. `Colaboração`, `Autoliderança` e `Criatividade`;
-- 💻 Hoje desenvolvo na linguagem `Javascript` e `Typescript`. Utilizando também as principais bibliotecas e tecnologias, baseadas em ES6, `NodeJS` e `ReactJS`;
-- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de `APIs REST` utilizando `Arquitetura em Três Camadas`;
-- 📝 Utilizo tanto os paradigmas de `Programação Funcional` como `Orientada à Objetos`;
-- 📋 Mantendo princípios de `SOLID` e `Test Drive Development`;
-- 🎲 Modelando bancos de dados relacionais com `MySQL` utilizando a ORM `Sequelize`;
-- 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: `Jest`, `React Testing Library`, `Mocha`, `Chai`, `Chai HTTP` e `Sinon`;
-- 🐋 Prática com ferramentas de desenvolvimento como `Docker`, `Docker Compose`, `Eslint` e `Git`;
-- 🔧 Além de produção `CI/CD` com `Heroku` e `Github Actions`;
+- 🧠 Possuo compentências em _soft skills_ tais como metodologias agile: Kanban e Scrum. Colaboração, Autoliderança e Criatividade;
+- 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também as principais bibliotecas e tecnologias, baseadas em ES6, NodeJS e ReactJS;
+- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas;
+- 📝 Utilizo tanto os paradigmas de Programação Funcional como Orientada à Objetos;
+- 📋 Mantendo princípios de SOLID e Test Drive Development;
+- 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize;
+- 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
+- 🐋 Prática com ferramentas de desenvolvimento como Docker`, Docker Compose, Eslint e Git;
+- 🔧 Além de produção CI/CD com Heroku e Github Actions;
 
 ##
 <div style="display: inline_block">
