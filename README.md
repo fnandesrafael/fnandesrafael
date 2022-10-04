@@ -16,13 +16,13 @@
 - 🔧 Além de produção CI/CD com Heroku e Github Actions;
 
 ##
-<div style="display: inline_block">
-  <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript">
-  <img align="left" width="30" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="Typescript">
-  <img align="left" width="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS">
-  <img align="left" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS">
-  <img align="left" width="28" src="https://iconape.com/wp-content/files/gq/99606/svg/sequelize.svg" alt="Sequelize">
-  <img align="left" width="31" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="Jest">
-  <img align="left" height="34" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker">
-  <img align="left" width="30" src="https://www.pngrepo.com/png/353869/512/heroku-icon.png" alt="Heroku">
+<div>
+  <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript">
+  <img align="left" height="35" width="35" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="Typescript">
+  <img align="left" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS">
+  <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS">
+  <img align="left" height="35" width="35" src="https://iconape.com/wp-content/files/gq/99606/svg/sequelize.svg" alt="Sequelize">
+  <img align="left" height="35" width="35" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="Jest">
+  <img align="left" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker">
+  <img align="left" height="35" width="35" src="https://www.pngrepo.com/png/353869/512/heroku-icon.png" alt="Heroku">
 </div>
