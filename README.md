@@ -23,6 +23,6 @@
   <img align="left" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS">
   <img align="left"height="35" width="35" src="https://iconape.com/wp-content/files/gq/99606/svg/sequelize.svg" alt="Sequelize">
   <img align="left" height="35" width="35" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="Jest">
-  <img align="left" height="35" width="50" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" alt="Docker">
+  <img align="left" height="30" width="45" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" alt="Docker">
   <img align="left" height="35" width="35" src="https://iconape.com/wp-content/files/xn/371066/svg/371066.svg" alt="Heroku">
 </div>
