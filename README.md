@@ -10,17 +10,25 @@
 - 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas;
 - 📝 Utilizo tanto os paradigmas de Programação Funcional como Orientada à Objetos;
 - 📋 Mantendo princípios de SOLID e Test Drive Development;
-- 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize;
+- 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
 - 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
-- 🐋 Prática com ferramentas de desenvolvimento como Docker`, Docker Compose, Eslint e Git;
+- 🐋 Prática com ferramentas de desenvolvimento como Docker, Docker Compose, Eslint e Git;
 - 🔧 Além de produção CI/CD com Heroku e Github Actions;
 
 ##
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
