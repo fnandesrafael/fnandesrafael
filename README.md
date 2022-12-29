@@ -13,7 +13,7 @@
 - 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
 - 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
 - 🐋 Prática com ferramentas de desenvolvimento como Docker, Docker Compose, Eslint e Git;
-- 🔧 Além de produção CI/CD;
+- 🔧 Além de produção CI/CD com Railway e Github Actions;
 
 ##
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
