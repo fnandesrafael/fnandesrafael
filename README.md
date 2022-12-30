@@ -8,7 +8,7 @@
 - 🧠 Possuo vivência em Ambientes Ágeis, bem como prática de Comunicação, Colaboração, Criatividade e Autoliderança;
 - 💻 Hoje desenvolvo nas linguagens Javascript, Typescript e Dart. Utilizando também suas principais bibliotecas e tecnologias, como ReactJs, React Native, NodeJs e Flutter;
 - 📝 Utilizo tanto os paradigmas de Programação Funcional como Programação Orientada à Objetos;
-- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas e Express;
+- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas e Express. Assim como construção de APIs GraphQL com Apollo Server;
 - 📋 Mantenho para isso princípios de SOLID e Test Drive Development;
 - 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
 - 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
@@ -24,6 +24,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
