@@ -8,7 +8,7 @@
 - 🧠 Possuo vivência em Ambientes Ágeis, bem como prática de Comunicação, Colaboração, Criatividade e Autoliderança;
 - 💻 Hoje desenvolvo nas linguagens Javascript, Typescript e Dart. Utilizando também suas principais bibliotecas e tecnologias, como ReactJs, React Native, NodeJs e Flutter;
 - 📝 Utilizo tanto os paradigmas de Programação Funcional como Programação Orientada à Objetos;
-- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas;
+- 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas e Express;
 - 📋 Mantenho para isso princípios de SOLID e Test Drive Development;
 - 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
 - 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
