@@ -5,7 +5,7 @@
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
 - 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack Júnior;
-- 🧠 Possuo vivência em Ambientes Ágeis, bem como prática de Comunicação, Colaboração, Criatividade e Autoliderança;
+- 🧠 Possuo prática em Ambientes Ágeis, Comunicação, Colaboração, Criatividade e Autoliderança;
 - 💻 Hoje desenvolvo nas linguagens Javascript, Typescript e Dart. Utilizando também suas principais bibliotecas e tecnologias, como ReactJs, React Native, NodeJs e Flutter;
 - 📝 Utilizo tanto os paradigmas de Programação Funcional como Programação Orientada à Objetos;
 - 📐 Aplicando conceitos de arquitetura de software no desenvolvimento de APIs REST utilizando Arquitetura em Três Camadas e Express. Assim como construção de APIs GraphQL com Apollo Server;
