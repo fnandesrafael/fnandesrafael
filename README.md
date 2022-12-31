@@ -11,7 +11,7 @@
 - 📐 Aplico conceitos de arquitetura de software no desenvolvimento de APIs REST como Arquitetura em Três Camadas(Model, Service e Controller);
 - 📋 Mantenho para isso princípios de SOLID e Test Drive Development;
 - 🎲 Modelo bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
-- 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
+- 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js;
 - 🐋 Como ferramentas de desenvolvimento utilizo Docker, Docker Compose, Eslint e Git;
 - 🔧 Além de produção CI/CD com Github Actions e Railway;
 
