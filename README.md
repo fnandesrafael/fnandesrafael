@@ -6,7 +6,7 @@
 
 - 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack Júnior;
 - 🧠 Possuo prática em Ambientes Ágeis, Comunicação, Colaboração, Criatividade e Autoliderança;
-- 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também suas principais bibliotecas e tecnologias, como React e NodeJs;
+- 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também suas principais bibliotecas e tecnologias, como React e Node.js;
 - 📝 Utilizo tanto os paradigmas de Programação Funcional como de Programação Orientada à Objetos;
 - 📐 Aplico conceitos de arquitetura de software no desenvolvimento de APIs REST como Arquitetura em Três Camadas(Model, Service e Controller);
 - 📋 Mantenho para isso princípios de SOLID e Test Drive Development;
