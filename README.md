@@ -6,27 +6,21 @@
 
 - 👨‍💻 Atualmente sou Desenvolvedor Web Fullstack Júnior;
 - 🧠 Possuo prática em Ambientes Ágeis, Comunicação, Colaboração, Criatividade e Autoliderança;
-- 💻 Hoje desenvolvo nas linguagens Javascript, Typescript e Dart. Utilizando também suas principais bibliotecas e tecnologias, como ReactJs, React Native, NodeJs e Flutter;
-- 📝 Utilizo tanto os paradigmas de Programação Funcional como Programação Orientada à Objetos;
-- 📐 Aplicando conceitos de padrões e arquitetura de software no desenvolvimento de APIs REST utilizando MSC e Express. Assim como construção de APIs GraphQL com Apollo Server;
+- 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também suas principais bibliotecas e tecnologias, como React e NodeJs;
+- 📝 Utilizo tanto os paradigmas de Programação Funcional como de Programação Orientada à Objetos;
+- 📐 Aplico conceitos de arquitetura de software no desenvolvimento de APIs REST como Arquitetura em Três Camadas(Model, Service e Controller);
 - 📋 Mantenho para isso princípios de SOLID e Test Drive Development;
-- 🎲 Modelando bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
+- 🎲 Modelo bancos de dados relacionais com MySQL utilizando a ORM Sequelize, e bancos NoSQL como MongoDB e a ODM Mongoose;
 - 🧪 Para o desenvolvimento de testes, sejam unitários ou de integração, tenho conhecimento dos frameworks: Jest, React Testing Library, Mocha, Chai, Chai HTTP e Sinon;
-- 🐋 Prática com ferramentas de desenvolvimento como Docker, Docker Compose, Eslint e Git;
+- 🐋 Como ferramentas de desenvolvimento utilizo Docker, Docker Compose, Eslint e Git;
 - 🔧 Além de produção CI/CD com Github Actions e Railway;
 
 ##
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
