@@ -1,6 +1,6 @@
-## Olá! Seja bem vindo ao meu perfil!
+## Olá! 👋 Seja bem vindo ao meu perfil!
 
-### Meu nome é Rafael
+### Meu nome é Rafael Lima
 
 #### Movido por resolução de problemas e inovações criativas, trabalho e acredito em projetos que possam fazer desse mundo, apesar de passageiro, um bom lugar para se viver.
 
