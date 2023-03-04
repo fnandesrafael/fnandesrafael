@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-### Meu nome é Rafael de Lima, e desenvolvo aplicaçõs web fullstack.
+### Meu nome é Rafael de Lima, e desenvolvo aplicações web fullstack.
 
 - 🧠 Como profissional possuo prática em ambientes ágeis, organizando e realizando tarefas com kanban e scrum. Também possuo competências em comunicação, colaboração, criatividade e autoliderança.
 
