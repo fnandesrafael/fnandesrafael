@@ -2,11 +2,11 @@
 
 ### Meu nome é Rafael de Lima, e desenvolvo aplicações web fullstack.
 
-- 🧠 Como profissional possuo prática em ambientes ágeis, organizando e realizando tarefas com kanban e scrum. Também possuo competências em comunicação, colaboração, criatividade e autoliderança.
+- 🧠 Como profissional, possuo prática em ambientes ágeis, organizando e realizando tarefas com Kanban e Scrum. Também tenho competências em comunicação, colaboração, criatividade e autoliderança.
 
-- 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também suas principais bibliotecas e tecnologias, como React.js e Node.js. Pretendendo expandir meu repertório, também hoje, estudo React Native, Dart e Flutter.
+- 💻 Atualmente, desenvolvo nas linguagens Javascript e Typescript, utilizando suas principais bibliotecas e tecnologias, como React.js e Node.js. Pretendendo expandir meu repertório, estudo também React Native, Dart e Flutter.
 
-- 📝 Possuo conhecimento e prática tanto no paradigma de programação funcional, como na programação orientada à objeto, na escrita dos meus códigos. Mantendo para isso, princípios de SOLID, Test Drive Development e Clean Code.
+- 📝 Tenho conhecimento e prática tanto no paradigma de programação funcional quanto na programação orientada a objetos. Aplicando princípios de SOLID, Test Drive Development e Clean Code na escrita dos meus códigos.
 
 - ⚙️ Desenvolvo API's REST, utilizando o framework Express.js. Para tal, aplico arquitetura de três camadas, separando o backend nas camadas de model, service e controller. Assim mantendo o código mais bem estruturado e limpo.
 
