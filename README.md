@@ -4,7 +4,7 @@
 
 - 🧠 Como profissional, possuo prática em ambientes ágeis, organizando e realizando tarefas com Kanban e Scrum. Também tenho competências em comunicação, colaboração, criatividade e autoliderança.
 
-- 💻 Atualmente, desenvolvo nas linguagens Javascript e Typescript, utilizando suas principais bibliotecas e tecnologias, como React.js e Node.js. Pretendendo expandir meu repertório, estudo também React Native, Dart e Flutter.
+- 💻 Atualmente, desenvolvo nas linguagens Javascript e Typescript, utilizando suas principais bibliotecas e tecnologias, como React.js e Node.js. Pretendendo expandir meu repertório, estudo também React Native, Dart e Flutter. Afim de ingressar no universo mobile.
 
 - 📝 Tenho conhecimento e prática tanto no paradigma de programação funcional quanto na programação orientada a objetos. Aplicando princípios de SOLID, Test Drive Development e Clean Code na escrita dos meus códigos.
 
