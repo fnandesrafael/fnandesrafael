@@ -3,11 +3,17 @@
 ### Meu nome é Rafael de Lima, e desenvolvo aplicaçõs web fullstack.
 
 - 🧠 Como profissional possuo prática em ambientes ágeis, organizando e realizando tarefas com kanban e scrum. Também possuo competências em comunicação, colaboração, criatividade e autoliderança.
+
 - 💻 Hoje desenvolvo nas linguagens Javascript e Typescript. Utilizando também suas principais bibliotecas e tecnologias, como React.js e Node.js. Pretendendo expandir meu repertório, também hoje, estudo React Native, Dart e Flutter.
+
 - 📝 Possuo conhecimento e prática tanto no paradigma de programação funcional, como na programação orientada à objeto, na escrita dos meus códigos. Mantendo para isso, princípios de SOLID, Test Drive Development e Clean Code.
+
 - ⚙️ Desenvolvo API's REST, utilizando o framework Express.js. Para tal, aplico arquitetura de três camadas, separando o backend nas camadas de model, service e controller. Assim mantendo o código mais bem estruturado e limpo.
+
 - 🎲 Realizo modelagem de bancos de dados relacionais com MySQL , bem como bancos NoSQL como MongoDB. Utilizando a ORM Sequelize ou a ODM Mongoose a depender de cada tipo de banco de dados.
-- 🧪 Busco sempre realizar testes automatizados nas minhas aplicações, sejam unitários ou de integração. Para isso, tenho conhecimento dos frameworks Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js.
+
+- 🧪 Busco sempre desenvolver testes automatizados nas minhas aplicações, sejam unitários ou de integração. Para isso, tenho conhecimento dos frameworks Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js.
+
 - 🧰 Para criação de ambientes de desenvolvimento, utilizo Docker e Docker Compose. Para o fluxo de CI, faço a utilização de linters, como ESlint e Stylelint, além do uso de Github Actions. No versionamento de código, utilizo Git e Github.
 
 ##
