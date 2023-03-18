@@ -5,17 +5,17 @@
 - 🧠 Como profissional, possuo prática em ambientes ágeis, organizando e realizando tarefas com Kanban e Scrum. Também tenho competência em comunicação, colaboração, criatividade e autoliderança.
 
 - 💻 Atualmente, desenvolvo nas linguagens Javascript e Typescript, utilizando suas principais bibliotecas e tecnologias, como React.js e Node.js.
-Pretendendo expandir meu repertório, estudo também React Native, Dart e Flutter. Afim de ingressar no universo mobile.
+Buscando expandir meu repertório, também estudo React Native, Dart e Flutter, afim de ingressar no universo mobile.
 
 - 📝 Tenho conhecimento e prática tanto no paradigma de programação funcional quanto na programação orientada a objetos. Na escrita dos meus códigos, busco sempre aplicar princípios de SOLID, Test Drive Development e Clean Code.
 
-- ⚙️ Desenvolvo API’s REST, utilizando o framework Express.js. Fazendo o uso de arquitetura de três camadas, separo o backend nas camadas de model, service e controller. Deixando cada parte do código com sua devida responsabilidade.
+- ⚙️ Desenvolvo API’s REST, utilizando o framework Express.js. Em sua construção, separo a aplicação nas camadas de model, service e controller. Fazendo o uso de arquitetura de três camadas e deixando cada parte do código com sua devida responsabilidade.
 
-- 🎲 Realizo modelagem de bancos de dados relacionais com MySQL , bem como bancos NoSQL como MongoDB. Utilizo a ORM Sequelize ou a ODM Mongoose, a depender de cada tipo de banco de dados, para comunicação com o Javascript ou Typescript.
+- 🎲 Realizo modelagem de bancos de dados relacionais com MySQL, e bancos NoSQL como MongoDB. Utilizando também a ORM Sequelize ou a ODM Mongoose, a depender de cada tipo de banco de dados, para comunicação com o Javascript ou Typescript.
 
-- 🧪 Busco sempre realizar testes automatizados nas minhas aplicações, sejam unitários ou de integração. Para a escrita desses testes, tenho conhecimento dos frameworks Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js.
+- 🧪 Busco sempre realizar testes automatizados nas minhas aplicações. Sejam eles testes unitários ou de integração. Para a escrita desses testes, tenho conhecimento dos frameworks Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js.
 
-- 🧰 Para criação de ambientes de desenvolvimento, utilizo Docker e Docker Compose. Para o fluxo de CI, faço a utilização de linters, como ESlint e Stylelint, além do uso de Github Actions. No versionamento de código, utilizo Git e Github.
+- 🧰 Para a criação de ambientes de desenvolvimento, utilizo Docker e Docker Compose. Para o fluxo de CI, faço a utilização de linters, como ESlint e Stylelint, além do uso de Github Actions. No versionamento dos meus código, utilizo Git e Github.
 
 ##
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
