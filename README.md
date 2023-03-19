@@ -9,7 +9,7 @@ Buscando expandir meu repertório, também estudo React Native, Dart e Flutter, 
 
 - 📝 Tenho conhecimento e prática tanto no paradigma de programação funcional quanto na programação orientada a objetos. Na escrita dos meus códigos, busco sempre aplicar princípios de SOLID, Test Drive Development e Clean Code.
 
-- ⚙️ Desenvolvo API’s REST, utilizando o framework Express.js. Em sua construção, separo a aplicação nas camadas de model, service e controller. Fazendo o uso de arquitetura de três camadas e deixando cada parte do código com sua devida responsabilidade.
+- ⚙️ Desenvolvo API’s REST com o framework Express.js, adotando uma abordagem de arquitetura de três camadas, que consiste na separação da aplicação em camadas de model, service e controller. Isso permite que cada parte do código tenha uma responsabilidade claramente definida e simplifica a manutenção e a escalabilidade da aplicação.
 
 - 🎲 Realizo modelagem de bancos de dados relacionais com MySQL, e bancos NoSQL como MongoDB. Utilizando também a ORM Sequelize ou a ODM Mongoose, a depender de cada tipo de banco de dados, para comunicação com o Javascript ou Typescript.
 
