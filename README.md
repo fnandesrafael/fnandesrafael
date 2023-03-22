@@ -1,37 +1,25 @@
-## Olá! 👋
+### Olá! 👋
 
-### Meu nome é Rafael de Lima, e desenvolvo aplicações web fullstack.
+# Rafael de Lima
 
-- 🧠 Como profissional, possuo prática em ambientes ágeis, organizando e realizando tarefas com Kanban e Scrum. Também tenho competência em comunicação, colaboração, criatividade e autoliderança.
+Sou um desenvolvedor web interessado em computação gráfica, design, semiótica e estética. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
 
-- 💻 Atualmente, desenvolvo nas linguagens Javascript e Typescript, utilizando suas principais bibliotecas e tecnologias, como React.js e Node.js.
-Buscando expandir meu repertório, também estudo React Native, Dart e Flutter, afim de ingressar no universo mobile.
+- 📍
+- 📍
 
-- 📝 Tenho conhecimento e prática tanto no paradigma de programação funcional quanto na programação orientada a objetos. Na escrita dos meus códigos, busco sempre aplicar princípios de SOLID, Test Drive Development e Clean Code.
-
-- ⚙️ Desenvolvo API’s REST com o framework Express.js, adotando uma abordagem de arquitetura de três camadas, que consiste na separação da aplicação em camadas de model, service e controller. Isso permite que cada parte do código tenha uma responsabilidade claramente definida e simplifica a manutenção e a escalabilidade da aplicação.
-
-- 🎲 Realizo modelagem de bancos de dados relacionais com MySQL, e bancos NoSQL como MongoDB. Utilizando também a ORM Sequelize ou a ODM Mongoose, a depender de cada tipo de banco de dados, para comunicação com o Javascript ou Typescript.
-
-- 🧪 Busco sempre realizar testes automatizados nas minhas aplicações. Sejam eles testes unitários ou de integração. Para a escrita desses testes, tenho conhecimento dos frameworks Jest, React Testing Library, Mocha.js, Chai.js e Sinon.js.
-
-- 🧰 Para a criação de ambientes de desenvolvimento, utilizo Docker e Docker Compose. Para o fluxo de CI, faço a utilização de linters, como ESlint e Stylelint, além do uso de Github Actions. No versionamento dos meus código, utilizo Git e Github.
-
-##
+## Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
-![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-efefef?style=for-the-badge&logo=axios&logoColor=6436e6)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-CA4245?style=for-the-badge&logo=testing-library&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-ca461a?style=for-the-badge&logo=jest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)
+![ESLint](https://img.shields.io/badge/ESLint-efefef?style=for-the-badge&logo=eslint&logoColor=4b32c3)
+![StyleLint](https://img.shields.io/badge/StyleLint-efefef?style=for-the-badge&logo=stylelint&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white)
+![Github Action](https://img.shields.io/badge/Github_Actions-0073ec?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
