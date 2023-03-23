@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=35&center=true&vCenter=true&width=1000&lines=Pax!;Olá!;Hello!)](https://git.io/typing-svg)
+### Pax! Olá! Hello! 👋
+
+# Rafael de Lima 🎲
 
 <p align="justify">
-  Sou um desenvolvedor web interessado em computação gráfica, design, semiótica e estética. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
+  Sou um desenvolvedor web brasileiro, interessado em computação gráfica, design, semiótica, estética e ludologia. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
 </p>
 
-- 📍 Pernambuco, Brasil;
+- 📍 Pernambuco, Brazil;
 - 📍 rafaelima.fernandez@pm.me;
 - 📍 [linkedin.com/in/rafaelimaf](linkedin.com/in/rafaelimaf);
 
