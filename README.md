@@ -38,10 +38,12 @@
 ![Docker](https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Action](https://img.shields.io/badge/Github_Actions-0073ec?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
 ### > Secundárias
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
+![Swagger API](https://img.shields.io/badge/Swagger_API-black?style=for-the-badge&logo=swagger)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=3e6e93)
 ![Sequelize.js](https://img.shields.io/badge/Sequelize.js-black?style=for-the-badge&logo=sequelize)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
