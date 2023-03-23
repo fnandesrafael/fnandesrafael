@@ -7,8 +7,6 @@
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/blob/main/curriculo.pdf)
 [![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelimaf/)
 
-- rafaelima.fernandez@pm.me
-
 <p align="justify">
   Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e desenvolvedor. Me interesso por computação gráfica, design, semiótica, estética e ludologia. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal e humano.
 </p>
