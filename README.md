@@ -3,9 +3,9 @@
 ### Pax! Olá! Hello! 👋
 
 # Sobre mim 🎲
-![Email](https://img.shields.io/badge/rafaelima.fernandez%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)
-[![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/raw/main/curriculo.pdf)
-![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)
+[![Email](https://img.shields.io/badge/rafaelima.fernandez%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](rafaelima.fernandez@pm.me)
+[![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/curriculo.pdf)
+[![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelimaf/)
 
 <p align="justify">
   Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e desenvolvedor. Me interesso por computação gráfica, design, semiótica, estética e ludologia. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal e humano.
