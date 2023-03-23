@@ -10,6 +10,7 @@
 
 - 📍 Pernambuco, Brasil
 - 📍 rafaelima.fernandez@pm.me
+- 📍 [Meu CV](https://github.com/rafaelimaf/rafaelimaf/raw/main/curriculo.pdf)
 - 📍 [linkedin.com/in/rafaelimaf](https://www.linkedin.com/in/rafaelimaf/)
 </br>
 
