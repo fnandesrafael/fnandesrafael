@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Pax!;Olá!;Hello!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=35&center=true&vCenter=true&width=1000&lines=Pax!;Olá!;Hello!)](https://git.io/typing-svg)
 
 <p align="justify">
   Sou um desenvolvedor web interessado em computação gráfica, design, semiótica e estética. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
@@ -11,8 +11,8 @@
 - 📍 [linkedin.com/in/rafaelimaf](linkedin.com/in/rafaelimaf);
 
 <div align="right">
-  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117" alt="Rafael de Lima github stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=true&title_color=58a6ff&text_color=fff&bg_color=0d1117" />
+  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" />
 </div>
 
 ## Stacks
