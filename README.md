@@ -5,7 +5,7 @@
 # Rafael de Lima 🎲
 
 <p align="justify">
-  I am a brazilian web developer, interested in computer graphics, design, semiotics, aesthetics and ludology. I enjoy create and design my applications, exploring technologies that help me convey meaningful narratives, approaching the development process in a somewhat artisanal way. I am an enthusiast of open-source code, decentralization, and free education. I work on and believe in projects that promote privacy and community empowerment, making this world, even if ephemeral, a better distributed place.
+  Sou um desenvolvedor web, interessado em computação gráfica, design, semiótica, estética e ludologia. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
 </p>
 
 - 📍 Pernambuco, Brazil;
