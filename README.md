@@ -10,7 +10,7 @@
 
 - 📍 Pernambuco, Brasil
 - 📍 rafaelima.fernandez@pm.me
-- 📍 [linkedin.com/in/rafaelimaf](linkedin.com/in/rafaelimaf)
+- 📍 [linkedin.com/in/rafaelimaf](https://www.linkedin.com/in/rafaelimaf/)
 
 <div align="right">
   <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
