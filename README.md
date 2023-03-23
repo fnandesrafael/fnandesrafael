@@ -28,6 +28,7 @@
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Axios](https://img.shields.io/badge/Axios-efefef?style=for-the-badge&logo=axios&logoColor=6436e6)
+![React Hooks](https://img.shields.io/badge/React_Hooks-efefef?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-CA4245?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-ca461a?style=for-the-badge&logo=jest&logoColor=white)
