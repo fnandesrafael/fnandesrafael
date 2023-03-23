@@ -1,7 +1,3 @@
-### Olá! 👋
-
-# Rafael de Lima
-
 Sou um desenvolvedor web interessado em computação gráfica, design, semiótica e estética. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
 
 - 📍 Pernambuco, Brasil
