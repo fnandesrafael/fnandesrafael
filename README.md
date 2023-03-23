@@ -40,6 +40,7 @@
 
 ### > Secundárias
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=3e6e93)
 ![Sequelize.js](https://img.shields.io/badge/Sequelize.js-black?style=for-the-badge&logo=sequelize)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
