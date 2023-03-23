@@ -2,7 +2,7 @@
 
 ### Pax! Olá! Hello! 👋
 
-# Rafael de Lima 🎲
+# Sobre mim 🎲
 
 <p align="justify">
   Sou um desenvolvedor web, interessado em computação gráfica, design, semiótica, estética e ludologia. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
@@ -13,8 +13,8 @@
 - 📍 [linkedin.com/in/rafaelimaf](https://www.linkedin.com/in/rafaelimaf/)
 
 <div align="right">
-  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" />
+  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&border_color=272d33&theme=transparent" alt="Rafael de Lima github stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&border_color=272d33&langs_count=10&theme=transparent" />
 </div>
 
 ## Stacks
