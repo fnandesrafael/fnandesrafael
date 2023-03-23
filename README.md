@@ -2,14 +2,13 @@
   Sou um desenvolvedor web interessado em computação gráfica, design, semiótica e estética. Gosto de criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal. Sou um entusiasta do código aberto, da descentralização e da educação livre. Trabalho e acredito em projetos que promovam a privacidade e o fortalecimento comunitário, fazendo deste mundo, mesmo que efêmero, um lugar melhor distribuído.
 </p>
 
+- 📍 Pernambuco, Brasil;
+- 📍 rafaelima.fernandez@pm.me;
+- 📍 [linkedin.com/in/rafaelimaf](linkedin.com/in/rafaelimaf);
+
 <div>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117" alt="Rafael de Lima github stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117" />
-  <ul>
-    <li>📍 Pernambuco, Brasil</li>
-    <li>rafaelima.fernandez@pm.me</li>
-    <li>linkedin.com/in/rafaelimaf</li>
-  </ul>
+  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117" alt="Rafael de Lima github stats" />
+  <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117" />
 </div>
 
 ## Stacks
