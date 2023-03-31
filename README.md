@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelimaf/)
 
 <p align="justify">
-  Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e profissional. Meu interesse por computação gráfica, design, semiótica, estética e ludologia me inspira a criar e desenhar minhas aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal e human-centered.
+  Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e profissional. Minha curiosidade por computação gráfica, design, semiótica, estética e ludologia me inspira a criar e desenhar aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal.
 </p>
 
 <div align="right">
