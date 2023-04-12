@@ -11,9 +11,9 @@
   Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e profissional. Minha curiosidade por computação gráfica, design, semiótica, estética e ludologia me inspira a criar e desenhar aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal.
 </p>
 
-<div align="right">
-  <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33&langs_count=10&hide=Shell" />
+<div align="left">
+  <img height="195px" src="https://github-readme-stats-rafaelimaf.vercel.app/api?username=rafaelimaf&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
+  <img height="195px" src="https://github-readme-stats-rafaelimaf.vercel.app/api/top-langs/?username=rafaelimaf&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33&langs_count=10&hide=Shell" />
 </div>
 </br>
 
