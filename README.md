@@ -18,7 +18,7 @@
 </br>
 
 ## Stacks
-### > Primárias
+### Primárias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ca461a?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
-### > Secundárias
+### Secundárias
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
