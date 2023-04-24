@@ -18,13 +18,15 @@
 </br>
 
 ## Stacks
-### Primárias
+#### Primárias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ca461a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/SCSS-DB7093?style=for-the-badge&logo=sass&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-efefef?style=for-the-badge&logo=framer&logoColor=e229c4)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Hooks](https://img.shields.io/badge/React_Hooks-efefef?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-CA4245?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -38,7 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
-### Secundárias
+#### Secundárias
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
