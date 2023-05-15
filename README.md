@@ -3,7 +3,7 @@
 ### Pax! Olá! Hello! 👋
 
 # Sobre mim 🎲
-[![Email](https://img.shields.io/badge/rafaelima.fernandez%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](mailto:rafaelima.fernandez@pm.me)
+[![Email](https://img.shields.io/badge/fnandesrafael%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](mailto:fnandesrafael@pm.me)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/blob/main/curriculo.pdf)
 [![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelimaf/)
 
