@@ -5,7 +5,7 @@
 # Sobre mim 🎲
 [![Email](https://img.shields.io/badge/fnandesrafael%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](mailto:fnandesrafael@pm.me)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/blob/main/curriculo.pdf)
-[![Linkedin](https://img.shields.io/badge/in/rafaelimaf-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaelimaf/)
+[![Linkedin](https://img.shields.io/badge/in/fnandesrafael-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fnandesrafael/)
 
 <p align="justify">
   Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e profissional. Minha curiosidade por computação gráfica, design, semiótica, estética e ludologia me inspira a criar e desenhar aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal.
