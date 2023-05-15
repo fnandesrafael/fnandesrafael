@@ -12,8 +12,8 @@
 </p>
 
 <div align="right">
-  <img align="left" height="190px" src="https://github-readme-stats-rafaelimaf.vercel.app/api?username=fnandesrafael&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
-  <img height="190px" src="https://github-readme-stats-rafaelimaf.vercel.app/api/top-langs/?username=fnandesrafael&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33&langs_count=10&hide=Shell" />
+  <img align="left" height="190px" src="https://fnandesrafael-stats.vercel.app/api?username=fnandesrafael&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33" alt="Rafael de Lima github stats" />
+  <img height="190px" src="https://fnandesrafael-stats.vercel.app/api/top-langs/?username=fnandesrafael&layout=compact&hide_border=false&title_color=58a6ff&text_color=fff&bg_color=0d1117&border_color=272d33&langs_count=10&hide=Shell" />
 </div>
 </br>
 
