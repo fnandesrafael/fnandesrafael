@@ -2,13 +2,13 @@
 
 ### Pax! Olá! Hello! 👋
 
-# Sobre mim 🎲
+# About me 🎲
 [![Email](https://img.shields.io/badge/fnandesrafael%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](mailto:fnandesrafael@pm.me)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/blob/main/curriculo.pdf)
 [![Linkedin](https://img.shields.io/badge/in/fnandesrafael-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fnandesrafael/)
 
 <p align="justify">
-  Sou um desenvolvedor web recém formado pela Trybe, onde tive a oportunidade de aprender e colaborar com pessoas e times incríveis, que me ajudaram a crescer como pessoa e profissional. Minha curiosidade por computação gráfica, design, semiótica, estética e ludologia me inspira a criar e desenhar aplicações, explorando tecnologias que me ajudem a transmitir narrativas significativas, levando o processo de desenvolvimento de um modo mais ou menos artesanal.
+  I am a recently graduated web developer from Trybe, where I had the opportunity to learn and collaborate with amazing people and teams who helped me grow as a person and professional. My curiosity for computer graphics, design, semiotics, aesthetics, and ludology inspires me to create and design applications, exploring technologies that help me convey meaningful narratives, taking the development process in a more artisanal way.
 </p>
 
 <div align="right">
@@ -18,7 +18,7 @@
 </br>
 
 ## Stacks
-### Primárias
+### Primary
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ca461a?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@
 ![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
-### Secundárias
+### Secundary
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
