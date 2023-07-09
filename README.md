@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/in/fnandesrafael-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fnandesrafael/)
 
 <p align="justify">
-  I am a recently graduated web developer from Trybe, where I had the opportunity to learn and collaborate with amazing people and teams who helped me grow as a person and professional. My curiosity for computer graphics, design, semiotics, aesthetics, and ludology inspires me to create and design applications, exploring technologies that help me convey meaningful narratives while taking the development process, in amore artisanal way.
+  I am a recently graduated web developer from Trybe, where I had the opportunity to learn and collaborate with amazing people and teams who helped me grow as a person and professional. My curiosity for computer graphics, design, semiotics, aesthetics, and ludology inspires me to create and design applications, exploring technologies that help me convey meaningful narratives, while taking the development process in amore artisanal way.
 </p>
 
 <div align="right">
