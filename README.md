@@ -19,19 +19,24 @@
 
 ## Stacks
 ### Primary
+> My Core Expertise And Daily Tools.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ca461a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-DB7093?style=for-the-badge&logo=sass&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-efefef?style=for-the-badge&logo=framer&logoColor=e229c4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-efefef?style=for-the-badge&logo=framer&logoColor=e229c4)
+![Anime.js](https://img.shields.io/badge/Anime.js-efefef?style=for-the-badge&logo=anime.js&logoColor=e229c4)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Hooks](https://img.shields.io/badge/React_Hooks-efefef?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
+![React Query](https://img.shields.io/badge/React_Query-CA4245?style=for-the-badge&logo=react-query&logoColor=yellow)
+![Axios](https://img.shields.io/badge/Axios-efefef?style=for-the-badge&logo=axios&logoColor=6436e6)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-CA4245?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-ca461a?style=for-the-badge&logo=jest&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-efefef?style=for-the-badge&logo=axios&logoColor=6436e6)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)
 ![ESLint](https://img.shields.io/badge/ESLint-efefef?style=for-the-badge&logo=eslint&logoColor=4b32c3)
 ![StyleLint](https://img.shields.io/badge/StyleLint-efefef?style=for-the-badge&logo=stylelint&logoColor=black)
@@ -41,7 +46,8 @@
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
 ### Secundary
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+> Familiar, But Not My Main Playground.
+
 ![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon)
 ![Swagger API](https://img.shields.io/badge/Swagger_API-black?style=for-the-badge&logo=swagger)
