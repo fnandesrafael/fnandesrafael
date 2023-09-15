@@ -40,6 +40,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)
 ![ESLint](https://img.shields.io/badge/ESLint-efefef?style=for-the-badge&logo=eslint&logoColor=4b32c3)
 ![StyleLint](https://img.shields.io/badge/StyleLint-efefef?style=for-the-badge&logo=stylelint&logoColor=black)
+![Prettier](https://img.shields.io/badge/Prettier-efefef?style=for-the-badge&logo=prettier&logoColor=4b32c3)
 ![Docker](https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white)
 ![Github Action](https://img.shields.io/badge/Github_Actions-0073ec?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ca461a?style=for-the-badge&logo=git&logoColor=white)
