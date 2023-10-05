@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
 
-### Pax! Olá! Salut! Hello! 👋
+### Pax! Olá! Hello! Salut! 👋
 
 # About me 🎲
 [![Email](https://img.shields.io/badge/fnandesrafael%40pm.me-black?style=for-the-badge&logo=protonmail&logoColor=8a6eff)](mailto:fnandesrafael@pm.me)
@@ -18,6 +18,15 @@
 </br>
 
 ## Stacks
+### On Going
+> Currently Studying Or Intending To Learn
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=59E29D)
+![Anime.js](https://img.shields.io/badge/Anime.js-white?style=for-the-badge&logo=anime.js&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-59E29D?style=for-the-badge&logo=cypress&logoColor=white)
+
+
 ### Primary
 > My Core Expertise And Daily Tools.
 
@@ -60,5 +69,3 @@
 ![Mocha.js](https://img.shields.io/badge/Mocha.js-black?style=for-the-badge&logo=mocha)
 ![Chai.js](https://img.shields.io/badge/Chai.js-black?style=for-the-badge&logo=chai)
 ![Sinon.js](https://img.shields.io/badge/Sinon.js-black?style=for-the-badge&logo=sinon)
-
-
