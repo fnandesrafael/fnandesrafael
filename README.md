@@ -24,7 +24,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=59E29D)
 ![Anime.js](https://img.shields.io/badge/Anime.js-white?style=for-the-badge&logo=anime.js&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-59E29D?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-59E29D?style=for-the-badge&logo=cypress&logoColor=black)
 
 
 ### Primary
