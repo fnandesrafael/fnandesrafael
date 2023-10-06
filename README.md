@@ -4,7 +4,7 @@
 
 # About me 🎲
 [![Email](https://img.shields.io/badge/fnandesrafael%40gmail.com-black?style=for-the-badge&logo=gmail)](mailto:fnandesrafael@gmail.com)
-[![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/rafaelimaf/rafaelimaf/blob/main/curriculo.pdf)
+[![CV](https://img.shields.io/badge/Curriculum_Vitae-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://docs.google.com/document/d/1F-uRt1K0F2261BgkeY2YAc1NZR9A64IQ/edit?usp=sharing&ouid=109670156392381967974&rtpof=true&sd=true)
 [![Linkedin](https://img.shields.io/badge/in/fnandesrafael-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fnandesrafael/)
 
 <p align="justify">
