@@ -40,7 +40,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-efefef?style=for-the-badge&logo=framer&logoColor=e229c4)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Hooks](https://img.shields.io/badge/React_Hooks-efefef?style=for-the-badge&logo=react&logoColor=black)
+![React Hooks](https://img.shields.io/badge/React_Hooks-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
 ![React Query](https://img.shields.io/badge/React_Query-CA4245?style=for-the-badge&logo=react-query&logoColor=yellow)
 ![Axios](https://img.shields.io/badge/Axios-efefef?style=for-the-badge&logo=axios&logoColor=6436e6)
