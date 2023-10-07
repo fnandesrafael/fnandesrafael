@@ -22,6 +22,7 @@
 > Currently Studying Or Intending To Learn
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=59E29D)
 ![Anime.js](https://img.shields.io/badge/Anime.js-white?style=for-the-badge&logo=anime.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=cypress&logoColor=black)
